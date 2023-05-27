@@ -39,6 +39,7 @@ const Home = () => {
                 <img  src="https://myraah.io/themev3/static/img/dual-ball-loader2.svg" style={{ "min-height" : "350px"}}></img>
             </div> }
            
+           
             { error && <h2> Please connect to internet and try again ...!</h2> }
 
             {movies && !pending &&

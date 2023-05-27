@@ -11,10 +11,12 @@ import Updatemovie from './Component/Updatemovie';
 
 function App() {
   return (
+    // welcome to OTT application
     <BrowserRouter>
         <div className="App">
             <Navbar/>
             <Routes>
+              
                 <Route path='/' element={<Home/>}/>
                 <Route path='/addmovie' element={<Addmovie/>}/>
                 <Route path="/moviedetails/:id" element={<Moviedetails/>}/>
