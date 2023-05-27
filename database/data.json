@@ -1,0 +1,649 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "moviename": "Kantara",
+      "hero": "Rishab Shetty",
+      "heroine": "Sapthami Gowda",
+      "director": "Rishab Shetty",
+      "languages": [
+        "Kannada",
+        "Tulu",
+        "Hindi",
+        "Telugu",
+        "Tamil",
+        "Malayalam"
+      ],
+      "genre": "Comedy Devine Action",
+      "poster": "https://pbs.twimg.com/media/FeDIZvEacAEGJ2G?format=jpg&name=4096x4096",
+      "trailer": "https://www.youtube.com/embed/8mrVmf239GU",
+      "release": "2022",
+      "rating": "9.5",
+      "synopsis": "Set in a fictional village of Dakshina Kannada, Kantara is a visual grandeur that brings alive the traditional culture of Kambla and Bhootha Kola. It is believed that Demigods are the guardians and their energies encircle the village. In the story, there is a ripple when a battle of ego swirls along tradition and culture of the land. The soul of the story is on human and nature conflict in which Shiva is the rebellion and works against nature. There are intense conflicts he indulges in. In the end, a much awaiting loop leads to war between the villagers and the evil forces. Will Shiva, the protagonist of the film be able to reinstate peace and harmony in the village perceiving his existence?"
+    },
+    {
+      "id": 2,
+      "moviename": "KGF - chapter 2",
+      "hero": "Yash",
+      "heroine": "Srinidhi shetty",
+      "director": "Rprashant",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "Action",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kgf-chapter-2-et00098647-08-04-2022-11-33-32.jpg",
+      "trailer": "https://www.youtube.com/embed/Qah9sSIXJqk",
+      "release": "2021",
+      "rating": "9.3",
+      "synopsis": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their saviour, the government sees him as a threat to law and order; enemies are clamouring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy."
+    },
+    {
+      "moviename": "RRR",
+      "hero": "NTR Ramcharan",
+      "heroine": "Alia Bhat",
+      "director": "Rajmouli",
+      "languages": [
+        "kannada",
+        "Hindi",
+        "Telugu"
+      ],
+      "genre": "History Divine Action",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/rrr-et00094579-12-05-2022-02-26-04.jpg",
+      "trailer": "https://www.youtube.com/embed/GY4BgdUSpbE",
+      "release": "2021",
+      "rating": "8",
+      "synopsis": "RRR is a period drama set in India during the 1920s, revolving around the inspiring journey of two of India`s freedom fighters - Alluri Sitarama Raju and Komaram Bheem.",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "moviename": "Apthamitra",
+      "hero": "vishuvardhan",
+      "heroine": "soudariya",
+      "director": "P Vasu",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Comedy Horror",
+      "poster": "https://m.media-amazon.com/images/I/81duXR-7hOL._SL1420_.jpg",
+      "trailer": "https://www.youtube.com/embed/Gf-qmEbnL0I",
+      "release": "2004",
+      "rating": "10",
+      "synopsis": "stars Vishnuvardhan, Soundarya and Ramesh Arvind in the lead roles with Prema, Dwarakish and Avinash in supporting roles. The movie is a remake of the 1993 Malayalam film Manichithrathazhu.[4] The film was released on 27 August 2004 on Varalakshmi festival to positive reviews.[5]It ran for one-hundred days in theaters across Karnataka and was one of the highest-grossing films of the year.[6] Apthamitra was later followed by its sequel, Aptharakshaka (2010). P. Vasu also remade the film in Tamil in 2005 as Chandramukhi with Rajinikanth and Jyothika in the leads. Actress Soundarya is remembered for her performance in this film?"
+    },
+    {
+      "id": 5,
+      "moviename": "Love mocktail",
+      "hero": "Darling Krishna",
+      "heroine": "Milana Nagaraj , Amrutha",
+      "director": "Darling Krishna",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Romance",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-mocktail-et00124382-20-10-2020-09-58-18.jpg",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2020",
+      "rating": "8",
+      "synopsis": "Love moctail is a romantic and fun film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?"
+    },
+    {
+      "id": 6,
+      "moviename": "Rangitaranga",
+      "hero": "Nirup Bhandari",
+      "heroine": "Radhika narayan",
+      "director": "Anup Bhandari",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Suspense Crime Thriller",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/47/2015_Kannada_film_Rangitaranga_poster.jpg",
+      "trailer": "https://www.youtube.com/embed/L8wWqg2oYiQ",
+      "release": "2015",
+      "rating": "8.2",
+      "synopsis": "Mysterious events begin to unfold after a reclusive novelist and his wife move back to her ancestral village, followed by a journalist."
+    },
+    {
+      "id": 7,
+      "moviename": "G G V V",
+      "hero": "Rishab Shetty, Raj B Shetty",
+      "heroine": "",
+      "director": "Raj B Shetty",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Crime Thriller",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGY5M2MxZjYtMWUwNi00N2RlLTk4NWQtMTY3YjI2ZjAwYjQ5XkEyXkFqcGdeQXVyODk4NTI4NDA@._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/BnuDHJcSd0Q",
+      "release": "2021",
+      "rating": "8.3",
+      "synopsis": "Childhood friends Shiva and Hari grow up to become two of the most feared gangsters in the coastal city of Mangaluru. However, their friendship is put to the test by greed and politics."
+    },
+    {
+      "moviename": "Just Maat Maatalli",
+      "hero": "Kiccha Sudeep",
+      "heroine": "Ramya",
+      "director": "Kiccha Sudeep",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Romance",
+      "poster": "https://c.saavncdn.com/777/Just-Maaht-Maathali-Kannada-2010-500x500.jpg",
+      "trailer": "https://www.youtube.com/embed/lbz7JydNb_Y",
+      "release": "2010",
+      "rating": "7.5",
+      "synopsis": "Siddharth, a singer, embarks on a journey to Singapore to meet and confess his love for Tanu. He meets Adi, a scriptwriter, on his flight and starts narrating the story of his life.",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "moviename": "Mussanje Maatu",
+      "hero": "Kiccha Sudeep",
+      "heroine": "Divya Spandana",
+      "director": "Kiccha Sudeep",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Romance",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/fe/Mussanjemaatu.jpg",
+      "trailer": "https://www.youtube.com/embed/60UoPro8aUM",
+      "release": "2008",
+      "rating": "7.4",
+      "synopsis": "Pradip, a radio jockey of a popular programme 'Mussange Mathu' falls in love with Tanu, his fan. While she is about to get married to someone, he struggles with expressing his feelings for her."
+    },
+    {
+      "id": 10,
+      "moviename": "Kurigalu saar Kurigalu",
+      "hero": "Ramesh, S.Narayan, Mohan",
+      "heroine": "Umashri",
+      "director": "Rajendra Singh Babu",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Comedy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjVjZjE2NTQtY2MxNC00ZDkxLTkzNzEtNTU2OThjMTkxN2I5XkEyXkFqcGdeQXVyOTY3OTAzOTQ@._V1_QL75_UY281_CR12,0,190,281_.jpg",
+      "trailer": "https://www.youtube.com/embed/Zbbmk_O784U",
+      "release": "2001",
+      "rating": "8.6",
+      "synopsis": "Kurigalu Saar Kurigalu is a 2001 Indian Kannada-language comedy film directed and written by Rajendra Singh Babu. The film stars Ramesh Aravind, S. Narayan, Mohan, Bhavana, Ruchita Prasad and Ananth Nag in the lead roles."
+    },
+    {
+      "id": 11,
+      "moviename": "Milana",
+      "hero": "Puneeth Rajkumar",
+      "heroine": "Parvati Menon",
+      "director": "Prakash",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Romance",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d3/Milanaposter.jpg",
+      "trailer": "https://www.youtube.com/embed/csx6Xr-bwNM",
+      "release": "2007",
+      "rating": "8.3",
+      "synopsis": "Anjali's father forces her to marry Akash. Unable to forget her past, she demands a divorce from Akash, but soon begins to fall for him."
+    },
+    {
+      "id": 12,
+      "moviename": "777 Charlie",
+      "hero": "Rakshith Shetty",
+      "heroine": "Sangeetha Sringeri",
+      "director": "Kiranraj K",
+      "languages": [
+        "kannada",
+        "Telugu",
+        "Hindi",
+        "Malayalam",
+        "Tamil"
+      ],
+      "genre": " Adventure",
+      "poster": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/82f8c5dcaeee975c05ce6acf3fecc82a06a865f4155bafda3ad5fe570ddfffa4._RI_V_TTW_.jpg",
+      "trailer": "https://www.youtube.com/embed/REqFOV2A7sI",
+      "release": "2022",
+      "rating": "8.8",
+      "synopsis": "Dharma, a hopeless man, leads his life in ruins until an abused pup named Charlie walks in and changes it completely for good."
+    },
+    {
+      "id": 13,
+      "moviename": "Ulidavaru Kandanthe",
+      "hero": "Rakshith Shetty, Rishab Shetty",
+      "heroine": "Yagna Shetty",
+      "director": "Rakshit Shetty",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Thriller Crime",
+      "poster": "https://sund-images.sunnxt.com/17468/1920x1080_UlidavaruKandanthe_17468_689633d9-bfa5-47b7-b659-2aca693ebe05.jpg",
+      "trailer": "https://www.youtube.com/embed/POJ_6EtGeMw",
+      "release": "2014",
+      "rating": "8.4",
+      "synopsis": "Richi, a journalist, takes into account the versions of some of the people involved in a high-profile murder case with the help of which he unveils the truth."
+    },
+    {
+      "id": 14,
+      "moviename": "Bell Bottom",
+      "hero": "Rishab Shetty",
+      "heroine": "HariPriya",
+      "director": "Jayatheertha",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Crime Comedy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTc4MzgyNjItNWMzYy00MGVlLWFiNTEtZTgyMTBmMzE1YmU3XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/0_W_PhKaQaY",
+      "release": "2019",
+      "rating": "8.2",
+      "synopsis": "Divakara, the son of a policeman, aspires to be a detective since his childhood. When he becomes a constable, he finally gets his chance at being a detective to solve a robbery case."
+    },
+    {
+      "id": 15,
+      "moviename": "Paramathma",
+      "hero": "Puneeth Rajkumar",
+      "heroine": "Deepa Sannidhi",
+      "director": "Yogaraj bhat",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Romance Comedy",
+      "poster": "https://bestoftheyear.in/wp-content/uploads/2017/06/paramathma-poster.jpg",
+      "trailer": "https://www.youtube.com/embed/IeuJfl3ajFI",
+      "release": "2011",
+      "rating": "7.3",
+      "synopsis": "Param is a rich young man who falls in love with Deepa. He soon discovers that his friend Sanvi is in love with him and tries to clear the air between them."
+    },
+    {
+      "moviename": "Simple Love Story",
+      "hero": "Rakshit Shetty",
+      "heroine": "Shwetha Srivatsav",
+      "director": "Suni",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Comedy Romance",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/03/Simple_Agi_Ondh_Love_Story_Poster.jpg",
+      "trailer": "https://www.youtube.com/embed/BAsq61XzXQw",
+      "release": "2013",
+      "rating": "8.1",
+      "synopsis": "Kushal (Rakshit Shetty) is sent by his radio jockey sister Rachana to Kodagu to meet her boyfriend's sister in the hope that the two will take a liking to each other, leading to marriage, and thus paving the way for her own marriage. Kushal meets a bubbly girl Kushi (Shwetha Srivatsav) in the house he is sent to, but the rest of the family is out of town. The two share their past romantic liaisons before falling in love with each other. It turns out, though, that the girl is not who she pretends to be. The film takes a curious turn from here.",
+      "id": 16
+    },
+    {
+      "moviename": "Mufti (ಮಫ್ತಿ)",
+      "hero": "\tShivarajkumar",
+      "heroine": "Shanvi Srivastava",
+      "director": " Narthan",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Action Thriller",
+      "poster": "https://images.jdmagicbox.com/comp/jd_social/news/2018aug14/image-409765-4r67r0mv4q.jpg",
+      "trailer": "https://www.youtube.com/embed/S0FHRAJPU1M",
+      "release": "2017",
+      "rating": "7.9",
+      "synopsis": "An undercover cop goes into the big bad world (Ronapura), an place taken over by a don, where his safety may be compromised.",
+      "id": 17
+    },
+    {
+      "moviename": "Ponniyin Selvan: I",
+      "hero": "Vikram",
+      "heroine": "Aishwarya Rai",
+      "director": "Mani Ratnam",
+      "languages": [
+        "Tamil"
+      ],
+      "genre": "Action",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/ponniyin-selvan--part-1-et00323897-1664271205.jpg",
+      "trailer": "https://www.youtube.com/embed/2HbAWSIOY1s",
+      "release": "2022",
+      "rating": "7.7",
+      "synopsis": "Sensing an uprising in the capital, Crown Prince Aditha Karikalan sends his friend Vallavaraiyan Vandiyadevan on a mission that sets off a series of conspiracies against the reigning king",
+      "id": 18
+    },
+    {
+      "moviename": "Ponniyin Selvan: II",
+      "hero": "Vikram",
+      "heroine": "Aishwarya Rai",
+      "director": "Mani Ratnam",
+      "languages": [
+        "Tamil",
+        "Telugu"
+      ],
+      "genre": "Adventure",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjk0MGYzYTUtNTkzYy00ODZlLTkyOTktNDJhNGJkN2NmYzMzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/EnhS3matIoU",
+      "release": "2023",
+      "rating": "8.2",
+      "synopsis": "Arulmozhi Varman continues on his journey to become Rajaraja I, the greatest ruler of the historic Chola empire of south India.",
+      "id": 19
+    },
+    {
+      "moviename": "Ugramm",
+      "hero": "Sri Murali",
+      "heroine": "Haripriya",
+      "director": "Prashanth Neel",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Action Crime",
+      "poster": "https://www.filmibeat.com/ph-big/2013/09/kannada-movie-ugramm_137915622000.jpg",
+      "trailer": "https://www.youtube.com/embed/f7XQSsZLjmo",
+      "release": "2014",
+      "rating": "8.1",
+      "synopsis": "When Agastya visits Mughor, he witnesses girls being raped in front of the villagers. He fights against the thugs to stop this but becomes a target of the local mafia.",
+      "id": 20
+    },
+    {
+      "moviename": "Kirik Party",
+      "hero": "Rakshit Shetty",
+      "heroine": "Rashmika Mandanna",
+      "director": " Rishab Shetty",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Comedy",
+      "poster": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/aff9cf49302425.58b07241cf383.jpg",
+      "trailer": "https://www.youtube.com/embed/IfvnbER_6sQ",
+      "release": "2016",
+      "rating": "8.2",
+      "synopsis": "Kirik Party is the story of a gang of mischievous students, lead by the protagonist Karna (Rakshit Shetty), who has just joined an engineering college.",
+      "id": 21
+    },
+    {
+      "moviename": "Premam",
+      "hero": "Nivin Pauly",
+      "heroine": "Sai Pallavi",
+      "director": "Alphonse Puthren",
+      "languages": [
+        "Tamil",
+        "Malayalam"
+      ],
+      "genre": "Romance",
+      "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/7207/1317207-v-59d13efb22ca",
+      "trailer": "https://www.youtube.com/embed/0G2VxhV_gXM",
+      "release": "2015",
+      "rating": "8.3",
+      "synopsis": "While George's first love turns out to be a disappointment, Malar, a college lecturer, rekindles his love interest. His romantic journey takes him through several stages, helping him find his purpose.",
+      "id": 22
+    },
+    {
+      "moviename": "Ratnan Prapancha",
+      "hero": "Dhananjaya",
+      "heroine": "Reba Monica John",
+      "director": "Rohith Padaki",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Comedy Family",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/8c/Rathnan_Prapancha_poster.jpg",
+      "trailer": "https://www.youtube.com/embed/IbDLu-Ro9ko",
+      "release": "2021",
+      "rating": "8.4",
+      "synopsis": "The tale of Ratnakara, an average middle class guy in his late twenties, who is stuck in a house with his mother, Saroja. Just when things couldn't get any worse, Ratnakara gets a phone call that turns his life upside down.",
+      "id": 23
+    },
+    {
+      "moviename": "3 Idiots",
+      "hero": "Aamir Khan",
+      "heroine": "Kareena Kapoor",
+      "director": "Rajkumar Hirani",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "Comedy Romance",
+      "poster": "https://www.meinstyn.com/wp-content/uploads/2017/01/3-Idiots-Movie-Poster-Aamir-Khan-Kareena-Kapoor-R-Madhavan-Sharman-Joshi-Full-HD-Desktop-Wallpaper.jpg",
+      "trailer": "https://www.youtube.com/embed/t--Q-XpFZFA",
+      "release": "2009",
+      "rating": "8.4",
+      "synopsis": "In college, Farhan and Raju form a great bond with Rancho due to his refreshing outlook. Years later, a bet gives them a chance to look for their long-lost friend whose existence seems rather elusive.",
+      "id": 24
+    },
+    {
+      "moviename": "Taare Zameen Par",
+      "hero": "Aamir Khan",
+      "heroine": "Tisca Chopra",
+      "director": "Aamir Khan, Amole Gupte",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": " Musical",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/b4/Taare_Zameen_Par_Like_Stars_on_Earth_poster.png",
+      "trailer": "https://www.youtube.com/embed/tn_2Ie_jtX8",
+      "release": "2007",
+      "rating": "8.3",
+      "synopsis": "Ishaan is criticised by his parents for his poor academic performance and is sent away to a boarding school. Ram, an art teacher, however, realises he has dyslexia and helps him uncover his potential.",
+      "id": 25
+    },
+    {
+      "moviename": "Love Mocktail 2",
+      "hero": "Darling Krishna",
+      "heroine": "Milana Nagraj",
+      "director": "Darling Krishna",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Romance",
+      "poster": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ae210685b6487bfd8c43ec3847670e7a0b4cdba1ee7670c61724184b82c4a6d8._RI_V_TTW_.jpg",
+      "trailer": "https://www.youtube.com/embed/dksKhOPWEIM",
+      "release": "2022",
+      "rating": "7.5",
+      "synopsis": "A sequel to Love Mocktail. Revolves around Aadi after the demise of his wife Nidhi. How does he move on from such a loss?",
+      "id": 26
+    },
+    {
+      "moviename": "Mugulu Nage",
+      "hero": "Ganesh",
+      "heroine": "Ashika, Apoorva Arora, Amulya ",
+      "director": "Yogaraj Bhat",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Romance Comedy",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/mugulu-nage-et00058802-23-06-2017-11-50-48.jpg",
+      "trailer": "https://www.youtube.com/embed/nZGNaxKXBX4",
+      "release": "2017",
+      "rating": "7.4",
+      "synopsis": "Pulakeshi chooses to smile through his pain and refuses to emote for tough situations, until three different women enter into his life at different phases to teach him the true meaning of love and life.",
+      "id": 27
+    },
+    {
+      "moviename": "99",
+      "hero": "Ganesh",
+      "heroine": "Bhavana",
+      "director": "Preetham Gubbi",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Romance",
+      "poster": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f9caa61feef1c018a9e563dd938d634e689b997f9004270fb3ec96bc88801016._RI_TTW_.jpg",
+      "trailer": "https://www.youtube.com/embed/b1dOqhPwGKg",
+      "release": "2019",
+      "rating": "6.3",
+      "synopsis": "Ramachandra and Janaki meet up 20 years after graduating high school, class of 1999, at a reunion party.",
+      "id": 28
+    },
+    {
+      "moviename": "96",
+      "hero": "Vijay Sethupathi",
+      "heroine": "Trisha Krishnan",
+      "director": "Govind Vasantha",
+      "languages": [
+        "Tamil"
+      ],
+      "genre": "Romance",
+      "poster": "https://e1.pxfuel.com/desktop-wallpaper/986/384/desktop-wallpaper-96-movie-thumbnail.jpg",
+      "trailer": "https://www.youtube.com/embed/Qx7I1j1KVDE",
+      "release": "2018",
+      "rating": "8.5",
+      "synopsis": "Two high school sweethearts meet at a reunion after 22 years and reminisce about their past.",
+      "id": 29
+    },
+    {
+      "moviename": "Charlie",
+      "hero": "Dulquer Salmaan",
+      "heroine": "Parvathy Thiruvothu",
+      "director": " Martin Prakkat",
+      "languages": [
+        "Malayalam"
+      ],
+      "genre": "Action Romance",
+      "poster": "https://www.nowrunning.com/content/movie/2015/Charlie/Stills/Charlie-Movie-23.jpg",
+      "trailer": "https://www.youtube.com/embed/oYxtLNJJ54Y",
+      "release": "2015",
+      "rating": "8",
+      "synopsis": "A young, nonconforming woman named Tessa gets entangled in a cat-and-mouse chase in the by-lanes of Kerala, hunting for a mysterious artist who previously lived in her apartment.",
+      "id": 30
+    },
+    {
+      "moviename": "Hondisi Bareyiri",
+      "hero": "Naveen Shankar, Praveen Tej, Shri Mahadev",
+      "heroine": "Aishani Shetty, Archana Kottige, Archana Jois, Bhavana",
+      "director": "Ramenahalli Jagannatha",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Drama",
+      "poster": "https://thesouthfirst.com/wp-content/uploads/2023/02/Fnw9YvlaQAE1U6j.jpg",
+      "trailer": "https://www.youtube.com/embed/awI6elU5dCs",
+      "release": "2023",
+      "rating": "7.8",
+      "synopsis": "The lives of five engineering college students and how they deal with the challenges of growing up and facing the realities of life",
+      "id": 31
+    },
+    {
+      "moviename": "Gultoo",
+      "hero": "Naveen Shankar",
+      "heroine": "Sonu",
+      "director": "Janardhan Chikkanna",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Crime Drama",
+      "poster": "https://www.nowrunning.com/content/movie/2017/gulto-21349/Stills/Gultoo-movie-02.jpg",
+      "trailer": "https://www.youtube.com/embed/t0yg3XHM8gg",
+      "release": "2018",
+      "rating": "7.9",
+      "synopsis": "Struggling to find a foot in the start-up scene, two aspiring entrepreneurs are entangled in a vicious loop of investigative trials following an unprecedented crime.",
+      "id": 32
+    },
+    {
+      "moviename": "Vikrant Rona",
+      "hero": "Kiccha Sudeep",
+      "heroine": "Neetha Ashok",
+      "director": "Anup Bhandari",
+      "languages": [
+        "kannada",
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "Malayalam"
+      ],
+      "genre": "Action Crime Drama",
+      "poster": "https://assetscdn1.paytm.com/images/cinema/Vikrant-Rona1--fd2be8c0-db2c-11ec-a298-e50df7f56a2b.jpg",
+      "trailer": "https://www.youtube.com/embed/-0ldvhBlL-k",
+      "release": "2024",
+      "rating": "7",
+      "synopsis": "Almost half a century ago, a remote village in the middle of a tropical rainforest starts witnessing a series of unexplainable events which they attribute to the supernatural.",
+      "id": 33
+    },
+    {
+      "moviename": "Bangalore Days",
+      "hero": "Fahadh Faasil, \tDulquer Salmaan, Nivin Pauly",
+      "heroine": "Nazariya Nazim",
+      "director": "Anjali Menon",
+      "languages": [
+        "Malayalam"
+      ],
+      "genre": "Romance Drama Comedy",
+      "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/5071/635071-v",
+      "trailer": "https://www.youtube.com/embed/uVpHL5g4buY",
+      "release": "2014",
+      "rating": "8.3",
+      "synopsis": "Cousins, Divya, Kuttan and Arjun, fulfil their childhood dream of relocating to Bangalore. As they embrace the warmth of the city, they also face challenges that transform their lives.",
+      "id": 34
+    },
+    {
+      "moviename": "Kempe Gowda",
+      "hero": "Kiccha Sudeep",
+      "heroine": "Ragini",
+      "director": "Sudeep",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Action Drama",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Kempe_Gowda_film_poster.jpg/220px-Kempe_Gowda_film_poster.jpg",
+      "trailer": "https://www.youtube.com/embed/AbTRlFmTCHs",
+      "release": "2011",
+      "rating": "7.2",
+      "synopsis": "Kempe Gowda, an honest police officer and a people's man, takes on a gangster, Armugam. However, the mafia leader has close connections with the bureaucrats, which keeps him safe against the law.",
+      "id": 35
+    },
+    {
+      "moviename": "Prithvi (ಪೃಥ್ವಿ)",
+      "hero": "Puneeth Rajkumar",
+      "heroine": "Parvathy",
+      "director": "Jacob Verghese",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Political Drama",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmNhYTMxM2QtNDBhNS00NzlhLTlhZGQtOTQwOGUyOGY2OGE4XkEyXkFqcGdeQXVyMzQzMDc2MDk@._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/W5ucY1jJA8g",
+      "release": "2010",
+      "rating": "8.3",
+      "synopsis": "Prithvi, an IAS officer, defends a village against various criminals who are contaminating the village's water supply due to their illegal activities.",
+      "id": 36
+    },
+    {
+      "moviename": " Maanikya (ಮಾಣಿಕ್ಯ)",
+      "hero": "Kiccha Sudeep",
+      "heroine": "Ranya Rao",
+      "director": "Sudeep",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Action Drama",
+      "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/old_images/vertical/MOVIE/3002/1000083002/1000083002-v",
+      "trailer": "https://www.youtube.com/embed/-dh_Cn2Pr-w",
+      "release": "2014",
+      "rating": "6.5",
+      "synopsis": "Vijay and Manasa's families have been at each other's throat's since the past 25 years. However, things take a turn when they fall in love with each other.",
+      "id": 37
+    },
+    {
+      "moviename": "My Autograph",
+      "hero": "Kiccha Sudeep",
+      "heroine": "Meena",
+      "director": "Sudeep",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Romance Drama",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/My_Autograph_Movie.jpg/220px-My_Autograph_Movie.jpg",
+      "trailer": "https://www.youtube.com/embed/XywapFqV5iQ",
+      "release": "2006",
+      "rating": "7.9",
+      "synopsis": "Shankar, an advertising professional, travels to his village to invite his friends to his wedding. During his journey, he reflects back on the years he spent in his village.",
+      "id": 38
+    },
+    {
+      "moviename": "Sai's Life Story",
+      "hero": "Sainath devadiga",
+      "heroine": "Krithi Shetty",
+      "director": "Sainath devadiga",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Romance",
+      "poster": "https://hips.hearstapps.com/hmg-prod/images/life-quotes-wayne-dyer-1665420549.png?resize=480:*",
+      "trailer": "https://www.youtube.com/embed/jVIrxqu-JyE",
+      "release": "2022",
+      "rating": "9.8",
+      "synopsis": "Developer Sai",
+      "id": 39
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "Rajesh",
+      "dob": "01/03/1997",
+      "gender": "male",
+      "phone": "9483301997",
+      "email": "ajnathahere@gmail.com",
+      "pwd": "YamahaFzS"
+    },
+    {
+      "username": "Raghu",
+      "dob": "1995-06-08",
+      "gender": "male",
+      "phone": "6360768595",
+      "email": "raghu@gmail.com",
+      "pwd": "dell@1234",
+      "id": 2
+    },
+    {
+      "username": "Sainath",
+      "dob": "1998-11-16",
+      "gender": "male",
+      "phone": "9731841833",
+      "email": "sainath@gmail.com",
+      "pwd": "789654",
+      "id": 3
+    },
+    {
+      "username": "Ridhi",
+      "dob": "2022-03-30",
+      "gender": "female",
+      "phone": "6360768595",
+      "email": "ridhi@gmail.com",
+      "pwd": "ridhu123",
+      "id": 4
+    }
+  ]
+}
