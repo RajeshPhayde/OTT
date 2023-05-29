@@ -54,3 +54,11 @@ const Home = () => {
 }
  
 export default Home;
+
+//es6, rest, spread, promise
+//dom
+
+// react -> Components and lifecycle methods & state management
+// -> about Hooks
+// -> about React-Routing
+// -> about Package manager (NPM)
